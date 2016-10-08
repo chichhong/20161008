@@ -1,0 +1,6 @@
+A:\文件\GitHub\Unity-Script\20161008\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+A:\文件\GitHub\Unity-Script\20161008\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+A:\文件\GitHub\Unity-Script\20161008\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+A:\文件\GitHub\Unity-Script\20161008\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+A:\文件\GitHub\Unity-Script\20161008\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+A:\文件\GitHub\Unity-Script\20161008\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
