@@ -26,14 +26,14 @@ namespace ConsoleApplication2
 
             bool a = true;
             int b;
-            int sum = 0,c=0;
+            int sum = 0, c = 0;
 
 
             while (a)
             {
                 Console.WriteLine("輸入數字");
                 b = Int32.Parse(Console.ReadLine());
-               
+
                 if (b == 0)
                 {
                     a = false;
@@ -54,7 +54,7 @@ namespace ConsoleApplication2
 
             Console.WriteLine(sum);
             Console.WriteLine(c);
-            Console.WriteLine((float)sum/c);
+            Console.WriteLine((float)sum / c);
             Console.ReadKey();
 
 
